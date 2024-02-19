@@ -3,16 +3,17 @@
 Open two terminals
 
 ## In first Terminal Type
-
+``` bash
 cd backend
 npm install
 npm run dev
-
+```
 ## In Second Terminal Type
-
+``` bash
 cd frontend
 npm install
 npm run dev
+```
 
 Now Open the website using
 ## http://localhost:5173/
