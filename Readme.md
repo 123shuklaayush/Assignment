@@ -16,6 +16,6 @@ npm run dev
 ```
 
 Now Open the website using
-## http://localhost:5173/
+http://localhost:5173/
 
 I used multer for storing files. Whatever will get stored you can see inside uploads folder present in the backend folder
